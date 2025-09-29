@@ -15,3 +15,11 @@ then install:
 pip install opencv-python mediapipe scikit-learn numpy joblib
 
 and also use vs code cuz its gonna be easier for the repo
+
+gng run collect signs first
+then clean data
+then train model
+then recognize signs
+
+clean data is optional
+thanks my neck hurts
