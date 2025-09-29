@@ -13,3 +13,5 @@ then install:
 
 
 pip install opencv-python mediapipe scikit-learn numpy joblib
+
+and also use vs code cuz its gonna be easier for the repo
